@@ -2,9 +2,9 @@
 
 **Course:** COMP-699B – Professional Seminar  
 **Institution:** Rivier University  
-**Student:** [Your Full Name]  
+**Student:** BhanuPrakash
 **Instructor:** Dr. Vladimir Riabov  
-**Date:** December 2025  
+**Date:** December 07 2025  
 
 This repository contains all files, source code, and documentation for the AI-powered intrusion detection system developed as part of the COMP-699B course.
 
