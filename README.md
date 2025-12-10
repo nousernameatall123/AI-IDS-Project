@@ -29,4 +29,4 @@ Average Detection Time: **1.8 seconds**
 - Add federated learning and blockchain audit trail
 
 ## License
-© 2025 [Your Name]. Academic use only.
+© 2025 BhanuPrakash. Academic use only.
